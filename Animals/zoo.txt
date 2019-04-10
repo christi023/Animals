@@ -1,0 +1,3 @@
+These are some animals that are found in the zoo:
+
+Lions, Monkeys, Giraffes, Rabbits, Bears, Birds, Snakes, Otters, Crocodile and Wolves.
